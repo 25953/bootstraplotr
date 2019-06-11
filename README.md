@@ -1,3 +1,3 @@
 # bootstraplotr
 
-Live Link: file:///Users/kevinkranenburg/Documents/ma/bewijzenmap/periode1.3/fro/bootstraplotr/index.html#inleiding
+Live Link: http://25953.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/fro/bootstraplotr/
