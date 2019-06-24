@@ -1,6 +1,6 @@
-
-$primary: 	#333333;
-$white: 	#EAEAEA; 
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative&display=swap');
+$primary: 	#040;
+$white: 	#cc9; 
 
 /*Required*/
 @import "../node_modules/bootstrap/scss/functions";
@@ -38,4 +38,8 @@ $white: 	#EAEAEA;
 	.jumbotron {
 		background-image: url('../img/lotrGroot.jpg');
 	}
+}
+
+h1, h3{
+	font-family: 'Cinzel Decorative', cursive;
 }
